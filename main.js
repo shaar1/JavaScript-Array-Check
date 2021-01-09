@@ -89,5 +89,7 @@ if (Array.isArray (friends)) {
     console.log("Good This Is Array");
 
 } else {
+
     console.log("No This Is Array")
+    
 }
